@@ -22,7 +22,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=HumayunShariarHimu&theme=react-dark&hide_border=true&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HumayunShariarHimu&theme=react-dark&hide_border=true&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF" />
 </p>
 
 ---
