@@ -70,10 +70,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HumayunShariarHimu&theme=tokyonight&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=HumayunShariarHimu&theme=react-dark&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true">
-</p>
-
 ---
 
 ## 📇 Contact & Links
