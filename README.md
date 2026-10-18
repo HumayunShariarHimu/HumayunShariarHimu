@@ -32,6 +32,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=HumayunShariarHimu&theme=onedark&no-frame=true&no-bg=true&column=6">
 </p>
 
+### GitHub Achievements
+GitHub Achievements are earned through qualifying activity on GitHub. Availability and tier requirements can change, and achievement progress may take time to appear on your profile. See the [official GitHub profile documentation](https://docs.github.com/en/account-and-profile/reference/profile-reference) for current profile and achievement details.
+
 ---
 
 ## 🏅 Special GitHub Badges
